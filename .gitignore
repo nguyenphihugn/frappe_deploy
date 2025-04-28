@@ -28,3 +28,7 @@ venv
 
 # NodeJS
 node_modules
+
+
+# Repository of custom apps
+apps.json
